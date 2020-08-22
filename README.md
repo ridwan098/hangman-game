@@ -4,6 +4,10 @@
 A visual implementation of hangman game I originally created in python. It uses react and is hosted on netlify.
 
 You can view a live version at: (will be redirected to)
+
+- [click here](https://hopeful-davinci-0d18bd.netlify.app/)
+
+or copy and paste the link below:
 ```
 > https://hopeful-davinci-0d18bd.netlify.app/
 ```

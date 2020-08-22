@@ -65,6 +65,9 @@ function App() {
             <Popup correctLetters={correctLetters} wrongLetters={wrongLetters} selectedWord={selectedWord} setPlayable={setPlayable} playAgain={playAgain} />
             <Notification showNotification={showNotification} />
             <div />
+            {/* <Footer /> */}
+            <div class="container" style={{ 'margin-top': 150 }}><small>Copyright © <a href="https://ridwan.co.uk" target="_blank" rel="noopener noreferrer">Ridwan
+            Gbadamosi</a> 2020</small></div>
         </div>
     );
 }

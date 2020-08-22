@@ -1,16 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![screenshot of hangman game](src/images/homePage.png)](https://ridwan.co.uk/)
+# Portfolio
+This is my personal portfolio built with html, css, bootstrap, jquery and javascript.
 
-## Available Scripts
+You can view my portfolio at: (will be redirected to)
+```
+> https://ridwan.co.uk/
+```
 
-In the project directory, you can run:
 
-### `npm start`
+## Links
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
+- [My portfolio](https://ridwan.co.uk/)
+- [By me a coffee](https://ko-fi.com/R1D1M1LL)

@@ -1,10 +1,11 @@
-[![screenshot of hangman game](src/images/homePage.png)](https://ridwan.co.uk/)
-# Portfolio
-This is my personal portfolio built with html, css, bootstrap, jquery and javascript.
+[![screenshot of hangman game](src/images/homePage.png)](https://hopeful-davinci-0d18bd.netlify.app/)
+# Hangman game
 
-You can view my portfolio at: (will be redirected to)
+A visual implementation of hangman game I originally created in python. It uses react and is hosted on netlify.
+
+You can view a live version at: (will be redirected to)
 ```
-> https://ridwan.co.uk/
+> https://hopeful-davinci-0d18bd.netlify.app/
 ```
 
 

@@ -9,7 +9,7 @@ import { showNotification as show, checkWin } from './helpers/helpers';
 
 import './App.css';
 
-const words = ['application', 'programming', 'interface', 'wizard'];
+const words = ['application', 'programming', 'interface', 'wizard', 'cat', 'lion', 'dog', 'china', 'uk', 'rome', 'spain', 'monkey'];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
 function App() {
@@ -55,7 +55,7 @@ function App() {
     }
 
     return (
-        <>
+        <div className='center-item'>
             <Header />
             <div className="game-container">
                 <Figure wrongLetters={wrongLetters} />
@@ -64,7 +64,8 @@ function App() {
             </div>
             <Popup correctLetters={correctLetters} wrongLetters={wrongLetters} selectedWord={selectedWord} setPlayable={setPlayable} playAgain={playAgain} />
             <Notification showNotification={showNotification} />
-        </>
+            <div />
+        </div>
     );
 }
 
